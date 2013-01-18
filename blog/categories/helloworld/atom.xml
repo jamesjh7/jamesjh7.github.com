@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Octotest!]]></title>
-  <link href="http://jamesjh7.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: helloworld | Octotest!]]></title>
+  <link href="http://jamesjh7.github.com/blog/categories/helloworld/atom.xml" rel="self"/>
   <link href="http://jamesjh7.github.com/"/>
   <updated>2013-01-17T20:49:53-08:00</updated>
   <id>http://jamesjh7.github.com/</id>
@@ -18,16 +18,16 @@
     <link href="http://jamesjh7.github.com/blog/2013/01/17/hello-world/"/>
     <updated>2013-01-17T20:37:00-08:00</updated>
     <id>http://jamesjh7.github.com/blog/2013/01/17/hello-world</id>
-    <content type="html"><![CDATA[<p>This is fun. I just learned how to use git and now I&#8217;m trying to learn markdown. I&#8217;m totally new to all this and
-I pretty much have no clue what I&#8217;m doing. Surprisingly, Google and following directions will go a long way with how
+    <content type="html"><![CDATA[<p>This is fun. I just learned how to use git and now I'm trying to learn markdown. I'm totally new to all this and
+I pretty much have no clue what I'm doing. Surprisingly, Google and following directions will go a long way with how
 well some things are documented.</p>
 
-<p>Okay now I&#8217;m going to insert a picture
+<p>Okay now I'm going to insert a picture
 <img src="https://sphotos-a.xx.fbcdn.net/hphotos-ash4/484500_4107040828516_346648500_n.jpg" width="400" height="400" title="This is in Austria" ></p>
 
 <p>Check it out!</p>
 
-<p>I still have lots to learn &#8211; like Markdown and some Ruby if I want to make changes to how I use Octopress. But this is
+<p>I still have lots to learn -- like Markdown and some Ruby if I want to make changes to how I use Octopress. But this is
 pretty fun!</p>
 ]]></content>
   </entry>
