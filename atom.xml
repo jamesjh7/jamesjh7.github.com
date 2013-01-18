@@ -4,7 +4,7 @@
   <title><![CDATA[Octotest!]]></title>
   <link href="http://jamesjh7.github.com/atom.xml" rel="self"/>
   <link href="http://jamesjh7.github.com/"/>
-  <updated>2013-01-17T21:32:04-08:00</updated>
+  <updated>2013-01-18T07:17:34-08:00</updated>
   <id>http://jamesjh7.github.com/</id>
   <author>
     <name><![CDATA[James Huang]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Pasting Some Code]]></title>
+    <link href="http://jamesjh7.github.com/blog/2013/01/18/pasting-some-code/"/>
+    <updated>2013-01-18T07:13:00-08:00</updated>
+    <id>http://jamesjh7.github.com/blog/2013/01/18/pasting-some-code</id>
+    <content type="html"><![CDATA[<p>Hello. I&#8217;m going to try to paste some code. Here we go:</p>
+
+<p>File C:/Users/jamehuang/octotesting/octopress/source/downloads/code/source/fruity.py could not be found</p>
+
+<p>Does it work?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World!]]></title>
