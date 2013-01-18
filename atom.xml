@@ -4,7 +4,7 @@
   <title><![CDATA[Octotest!]]></title>
   <link href="http://jamesjh7.github.com/atom.xml" rel="self"/>
   <link href="http://jamesjh7.github.com/"/>
-  <updated>2013-01-17T20:12:58-08:00</updated>
+  <updated>2013-01-17T20:30:53-08:00</updated>
   <id>http://jamesjh7.github.com/</id>
   <author>
     <name><![CDATA[James Huang]]></name>
@@ -12,18 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[hello world!]]></title>
-    <link href="http://jamesjh7.github.com/blog/2013/01/17/hello-world/"/>
-    <updated>2013-01-17T20:08:00-08:00</updated>
-    <id>http://jamesjh7.github.com/blog/2013/01/17/hello-world</id>
-    <content type="html"><![CDATA[<p>HelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHello
-HelloHelloHelloHello
-HelloHelloHelloHello</p>
-
-<p>HelloHelloHelloHelloHello</p>
-]]></content>
-  </entry>
   
 </feed>
